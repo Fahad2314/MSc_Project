@@ -1,0 +1,4 @@
+﻿Data,Average_Accuracy,Average_Precision,Average_Recall,Average_F_Score,Average_AUC
+Raw,0.4833,0.5608,0.5477,0.5913,0.4139
+Tech,0.71225,0.7444,0.85511,0.7924,0.6446
+Combination,0.7467,0.7839,0.8153,0.7981,0.7237
